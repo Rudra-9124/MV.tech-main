@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <img src="/image.png" alt="MV.tech" className="h-10" />
+              <img src="./image.png" alt="MV.tech" className="h-10" />
             </div>
             <p className="text-slate-400 mb-4 max-w-md">
               Data-Powered Solutions for Scalable Growth. Building enterprise-grade
